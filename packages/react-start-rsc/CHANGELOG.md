@@ -1,5 +1,12 @@
 # @tanstack/react-start-rsc
 
+## 0.1.46
+
+### Patch Changes
+
+- Updated dependencies [[`f75cada`](https://github.com/TanStack/router/commit/f75cada01707e51fb9650dd301bc04f8b2265a2a)]:
+  - @tanstack/react-router@1.170.30
+
 ## 0.1.45
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @tanstack/react-router
 
+## 1.170.30
+
+### Patch Changes
+
+- [#8068](https://github.com/TanStack/router/pull/8068) [`f75cada`](https://github.com/TanStack/router/commit/f75cada01707e51fb9650dd301bc04f8b2265a2a) - direct export of CatchBoundary class component, remove function wrapper
+
 ## 1.170.29
 
 ### Patch Changes
